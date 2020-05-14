@@ -4,7 +4,7 @@ title: My New Post
 subtitle: A Subtitle
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [portfolio]
+tags: [portfolio, test]
 comments: true
 ---
 
