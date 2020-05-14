@@ -13,6 +13,7 @@ author: "Ryan Allred"
 
 navbar-links:
   About Me: "aboutme"
+  My Page: "mypage"
   Links:
     - Training Kit: "https://learn.lambdaschool.com"
     - Lambda School: "https://lambdaschool.com"
