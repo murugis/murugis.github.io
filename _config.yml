@@ -39,10 +39,10 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "ryan@lambdaschool.com"
-  github: ryanleeallred
-  twitter: ryanallred
+  email: "rose@example.com"
+  github: rosemurugi
   rss: true 
+#twitter: 
 #   facebook: deanattali
 #  reddit: yourname
 #  linkedin: daattali
@@ -81,7 +81,7 @@ excerpt_length: 50
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#4266a1"
+navbar-col: "#48e807"
 navbar-text-col: "#404040"
 navbar-border-col: "#EAEAEA"
 page-col: "#FFFFFF"
